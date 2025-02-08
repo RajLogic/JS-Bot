@@ -1,0 +1,3 @@
+discord.js
+--save-dev eslint @eslint/js
+dotenv
