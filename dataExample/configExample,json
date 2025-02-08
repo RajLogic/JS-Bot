@@ -1,3 +1,6 @@
 {
-    "token": "Token Here ok?"
+    "token": "Token Here ok?",
+    "clientId": "your-application-id-goes-here",
+    "guildId": "your-server-id-goes-here",
+    "prefix": "!"
 }
